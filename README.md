@@ -1,25 +1,20 @@
 # Sydney Opera House Research
 
 ## Overview
-The Sydney Opera House is a multi-venue performing arts centre at Sydney Harbour in Sydney, New South Wales, Australia. Located on Bennelong Point, it is one of the 20th century's most famous and distinctive buildings. Designed by Danish architect Jørn Utzon in 1957, construction began in 1959 and was completed in 1973. It is a UNESCO World Heritage Site.
+The Sydney Opera House is a multi-venue performing arts centre at Sydney Harbour in Sydney, New South Wales, Australia. It is among the 20th century's most famous and distinctive buildings. Designed by Danish architect Jørn Utzon, the project began in 1959 and was completed in 1973. The Opera House hosts around 1,800 events each year with an attendance of 1.2 million people.
 
-## Location Details
-- **Coordinates:** -33.8536, 151.2153
+## Location
+Name: Sydney Opera House, Address: Bennelong Point, Sydney NSW 2000, Australia, Coordinates: -33.855667, 151.214167
 
 ## Nearby Museum
-- **Name:** Museum of Illusions
-- **Address:** 413 George St, Sydney NSW 2000, Australia
-- **Coordinates:** -33.870327, 151.2065699
+Name: Museum of Contemporary Art Australia (MCA), Address: 140 George St, The Rocks, Sydney NSW 2000, Australia, Coordinates: -33.8594, 151.2072
 
-## Walking Distance & Directions
-- **Distance:** 3.6 km (23 mins walk)
-- **Directions:**
-  1. Head west on Manly - Barangaroo/Manly - Darling Harbor (2.5 km, ~7 mins)
-  2. Turn left onto Mercantile Walk (0.3 km, ~4 mins)
-  3. Turn right onto Sussex St (0.4 km, ~6 mins)
-  4. Turn left onto King St (0.2 km, ~4 mins)
-  5. Turn right onto York St (0.2 km, ~3 mins)
+## Walking Distance
+Approx. 650 meters (7‑9 minutes) from the Sydney Opera House to the Museum of Contemporary Art Australia.
 
-## Research Notes
-- Historical background, architectural significance, and visitor information are summarized above.
-- Museum of Illusions is a nearby attraction; note its opening hours (10:00 AM – 8:00 PM weekdays, 9:00 PM weekends).
+## Walking Directions
+1. Exit the Opera House and head northwest along the Sydney Harbour foreshore walkway toward Circular Quay.
+2. Continue onto the promenade and turn left onto George Street.
+3. Walk about 300 m on George Street to the MCA entrance at 140 George St.
+
+The route is flat, scenic, and pedestrian‑friendly, passing ferries and shops.
